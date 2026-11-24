@@ -1,0 +1,9 @@
+{
+  "name": "call-center-orm",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ],
+  "builtin-baseline": "2f8bf7a5bad48aaef99d80b221fca712f016ab8f"
+}
